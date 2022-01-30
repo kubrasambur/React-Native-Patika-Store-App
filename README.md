@@ -5,6 +5,7 @@
 ## Features
 - data in json file listed with flatlist
 - searched element or elements are listed with the search bar
+- Out of stock products are indicated.
 
 ## Images
 <img src="Screenshot_1643373683.png" height="500" width="250"><img/>
